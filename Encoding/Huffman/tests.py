@@ -51,7 +51,7 @@ def main():
     ax.set_xlabel("Number of different possible characters")
     ax.set_ylabel("Shannon's entropy - Huffman encoding's efficiency (in bits)")
     ax.plot(sizes, avgs)
-    plt.show())
+    plt.show()
 
 if __name__ == '__main__':
     import string, math, random
