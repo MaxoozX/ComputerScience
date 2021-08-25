@@ -21,4 +21,3 @@ class DoubleLinkedNode {
 };
 
 #endif // DOUBLELINKEDNODE_H
-© 2021 GitHub, Inc.
